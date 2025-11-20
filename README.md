@@ -2,6 +2,11 @@
 
 La plantilla utilizada se tomó de: `https://startbootstrap.com/theme/sb-admin-2#google_vignette`
 
+Para cambiar la imagen de la página de login ir al archivo src/assets/css/sp-admin-2.css y buscar las siguientes líneas:
+
+.bg-login-image {
+  background: url("http://revistaaxxis.com.co/wp-content/uploads/2023/06/RIO-FOOD_7-683x1024.png");
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.6.
 
 ## Development server
